@@ -4,7 +4,7 @@ import discord
 from discord.ext import commands
 import telegram
 
-DISCORD_TOKEN = os.getenv("8287650101:AAFv6cl1fABMAgBkZp5Iedj5at0bwyV0M14")
+DISCORD_TOKEN = os.getenv("MTQ0NjI1MzM3Mzc0MDQyMTIyMA.GO3Wxp.2mrW_IGJTyi69NQb63y8bJ366lEikDDDaSszvM")
 TELEGRAM_TOKEN = os.getenv("8287650101:AAFv6cl1fABMAgBkZp5Iedj5at0bwyV0M14")
 TELEGRAM_CHAT_ID = os.getenv("-1003382011732")
 DISCORD_CHANNEL_ID = int(os.getenv("1443355104018301080"))
